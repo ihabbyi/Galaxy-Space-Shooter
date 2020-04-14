@@ -13,6 +13,6 @@ Things I've done to the game<br/><br/>
 -- Changed (Variable == false) to (!Variable) And (Variable == true) to (Variable) to reduce the usage of memory<br/>
 <br/>
 <br/>
-/*************************************************************** <br/>
+/**************************************************************** <br/>
 Don't remember if i've done something else I'll update this file <br/>
-***************************************************************/
+****************************************************************/
